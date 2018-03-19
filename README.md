@@ -1,3 +1,3 @@
-## Blog para implementar CanCanCan en E20
+https://intense-savannah-55517.herokuapp.com/ 
 
-#### Descarga este repositorio y comienza a trabajar siguiendo los videos correspondientes a la Experiencia 20.
+Patricio Venegas
